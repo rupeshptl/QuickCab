@@ -99,7 +99,7 @@ input{
   justify-content: center;
 }
 .button:hover {
-  background-color: #1b4f72;
+  background-color: #1b4f72; 
 }
 
 /* .booking-form button {
